@@ -1,0 +1,15 @@
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.continaer {
+  padding: 20px;
+  margin-top: 100px;
+  background: #666666;
+  width: 560px;
+}
+.continaer table {
+  width: 50%;
+  margin-top: 10px;
+}
